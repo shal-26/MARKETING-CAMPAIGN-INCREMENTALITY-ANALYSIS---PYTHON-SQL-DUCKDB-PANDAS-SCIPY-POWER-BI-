@@ -126,28 +126,9 @@ The dashboard presents the main campaign performance metrics and customer segmen
 
 ---
 
-## 9. Repository Structure
 
-```text
-marketing-campaign-incrementality/
-│
-├── notebooks/
-│   └── marketing_incrementality_analysis.ipynb
-│
-├── dashboard/
-│   └── marketing_incrementality_dashboard.pbix
-│
-├── reports/
-│   └── Marketing_Campaign_Incrementality_Project_Report.docx
-│
-├── images/
-│   └── dashboard_screenshot.png
-│
-└── README.md
 
----
-
-10. Dataset
+## 9. Dataset
 Source: Criteo Uplift Modeling Dataset – Kaggle
 
 Scale: ~13.98 million customer records and 16 columns, including anonymized customer features, treatment assignment, conversion, visit, and advertising exposure.
