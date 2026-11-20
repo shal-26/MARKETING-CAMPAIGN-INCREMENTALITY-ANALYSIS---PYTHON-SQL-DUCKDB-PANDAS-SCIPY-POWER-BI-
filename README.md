@@ -17,8 +17,7 @@
 - [6. Power BI Dashboard](#6-power-bi-dashboard)
 - [7. Business Recommendations](#7-business-recommendations)
 - [8. Limitations](#8-limitations)
-- [9. Repository Structure](#9-repository-structure)
-- [10. Dataset](#10-dataset)
+- [9. Dataset](#9-dataset)
 
 ---
 
